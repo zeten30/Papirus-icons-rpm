@@ -3,3 +3,4 @@
 *.tar.gz
 papirus-icon-theme/*
 papirus-icon-theme-git/*
+upstream/*

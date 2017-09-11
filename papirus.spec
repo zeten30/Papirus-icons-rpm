@@ -1,5 +1,5 @@
 Name:		papirus
-Version:	2017.8
+Version:	2017.9
 Release:	1%{?dist}
 Summary:	Papirus icon themes
 Group:		User Interface/Desktops
@@ -82,6 +82,9 @@ done
 
 
 %changelog
+* Mon Sep 11 2017 Milan Zink <zeten30@gmail.com> - 2017.9
+- sync with upstream
+
 * Mon Jul 10 2017 Milan Zink <zeten30@gmail.com> - 2017.7
 - sync with upstream
 

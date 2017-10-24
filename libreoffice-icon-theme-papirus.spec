@@ -13,8 +13,8 @@
 
 
 Name:           libreoffice-style-papirus
-Version:        2017.9
-Release:        1%{?dist}
+Version:        2017.10
+Release:        2%{?dist}
 Summary:        Papirus theme for Libreoffice
 License:        GPLv3
 Group:          System/GUI/Other
@@ -52,6 +52,9 @@ make install DESTDIR=%{buildroot} PREFIX=%{_libdir}
 
 
 %changelog
+* Tue Oct 24 2017 Milan Zink <zeten30@gmail.com> - 2017.10
+- sync with upstream
+
 * Mon Sep 11 2017 Milan Zink <zeten30@gmail.com> - 2017.9
 - sync with upstream
 

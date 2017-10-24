@@ -1,6 +1,6 @@
 Name:		papirus
-Version:	2017.9
-Release:	1%{?dist}
+Version:	2017.10
+Release:	2%{?dist}
 Summary:	Papirus icon themes
 Group:		User Interface/Desktops
 License:	GPL-3
@@ -82,6 +82,9 @@ done
 
 
 %changelog
+* Tue Oct 24 2017 Milan Zink <zeten30@gmail.com> - 2017.10
+- sync with upstream
+
 * Mon Sep 11 2017 Milan Zink <zeten30@gmail.com> - 2017.9
 - sync with upstream
 

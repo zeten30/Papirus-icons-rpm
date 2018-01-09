@@ -1,5 +1,5 @@
 # RPM Makefile
-RELEASE=26
+RELEASE=27
 
 sources:
 	./sources.sh

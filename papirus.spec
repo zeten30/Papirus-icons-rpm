@@ -1,6 +1,6 @@
 Name:		papirus
-Version:	2017.10
-Release:	2%{?dist}
+Version:	2018.01
+Release:	1%{?dist}
 Summary:	Papirus icon themes
 Group:		User Interface/Desktops
 License:	GPL-3

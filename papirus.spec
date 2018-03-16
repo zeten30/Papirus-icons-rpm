@@ -1,5 +1,5 @@
 Name:		papirus
-Version:	2018.01
+Version:	2018.03
 Release:	1%{?dist}
 Summary:	Papirus icon themes
 Group:		User Interface/Desktops

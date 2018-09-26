@@ -13,7 +13,7 @@
 
 
 Name:           libreoffice-style-papirus
-Version:        2018.03
+Version:        2018.09
 Release:        1%{?dist}
 Summary:        Papirus theme for Libreoffice
 License:        GPLv3
